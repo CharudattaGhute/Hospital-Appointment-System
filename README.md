@@ -57,4 +57,17 @@ Before you begin, ensure you have met the following requirements:
   #### "patient_password": "password123"
 ### }
 
+## Doctor Endpoints
+- Add Doctor
+- Method POST
+ ### {
+ ### "doctor_name": "Dr. Smith",
+ ### "doctor_phone": 1234567890,
+###  "doctor_specialist": "Cardiologist",
+###  "doctor_email": "drsmith@example.com",
+ ### "doctor_password": "securepassword",
+ ### "doctor_address": "456 Elm St"
+### }
+
+  
 
