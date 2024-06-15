@@ -74,7 +74,8 @@ Before you begin, ensure you have met the following requirements:
       npm start
   ```
 # Contributing
-Contributions are always welcome! Please feel free to submit a Pull Request.
+- Contributions are always welcome! Please feel free to submit a Pull Request.
+  
 
 
   
