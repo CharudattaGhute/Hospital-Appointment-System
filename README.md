@@ -1,4 +1,3 @@
-# hospital_managment_project
 # Appointment Management System - Backend
 
 This repository contains the backend code for an appointment management system built using Node.js, Express, and MongoDB. The system allows for managing patient and doctor data, including adding, retrieving, and logging in users.
