@@ -28,3 +28,16 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/your-username/appointment-management-backend.git
    cd appointment-management-backend
 
+2 . Install dependencies:
+  ```bash
+      npm install express
+      npm install mongoose
+  ```
+3. Install nodemon:
+   ```bash
+       npm install nodemon
+   ```
+
+
+
+
