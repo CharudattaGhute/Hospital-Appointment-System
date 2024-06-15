@@ -25,8 +25,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/appointment-management-backend.git
-   cd appointment-management-backend
+   git clone https://github.com/CharudattaGhute/hospital_managment_project.git
+  
 
 2 . Install dependencies:
   ```bash
