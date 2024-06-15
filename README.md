@@ -8,11 +8,10 @@ This repository contains the backend code for an appointment management system b
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
-  - [Patient Endpoints](#patient-endpoints)
+  - [Patient Endpoints](#Patient-endpoints)
   - [Doctor Endpoints](#doctor-endpoints)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
