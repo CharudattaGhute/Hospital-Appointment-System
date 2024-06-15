@@ -68,5 +68,14 @@ Before you begin, ensure you have met the following requirements:
  ### "doctor_address": "456 Elm St"
 ### }
 
+# Running the Application
+- Start the server
+  ```bash
+      npm start
+  ```
+# Contributing
+Contributions are always welcome! Please feel free to submit a Pull Request.
+
+
   
 
