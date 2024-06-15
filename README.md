@@ -1,1 +1,1 @@
-# Hospital_project
+# hospital_managment_project
