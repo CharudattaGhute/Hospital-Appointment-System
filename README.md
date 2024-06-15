@@ -37,7 +37,11 @@ Before you begin, ensure you have met the following requirements:
    ```bash
        npm install nodemon
    ```
-
-
+## Configuration
+1. Create a .env file in the root directory and add your MongoDB connection string:
+   ```bash
+       MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.prqkren.mongodb.net/appoinment
+    ```
+2. Replace <username> and <password> with your MongoDB Atlas credentials.
 
 
