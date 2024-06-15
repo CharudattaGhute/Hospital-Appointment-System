@@ -44,4 +44,17 @@ Before you begin, ensure you have met the following requirements:
     ```
 2. Replace <username> and <password> with your MongoDB Atlas credentials.
 
+## API Endpoints
+- Add patient
+- Method POST
+- Body parameters
+### {
+ ### "patient_name": "John Doe",
+ ### "patient_age": 30,
+  ### "patient_email": "johndoe@example.com",
+  ### "patient_blood": "O+",
+  #### "patient_address": "123 Main St",
+  #### "patient_password": "password123"
+### }
+
 
