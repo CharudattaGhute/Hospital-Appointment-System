@@ -44,6 +44,8 @@ Before you begin, ensure you have met the following requirements:
 
 ## API Endpoints
 - Add patient
+- Add Doctor
+- get Appointment
 - Method POST
 - Body parameters
 ### {
