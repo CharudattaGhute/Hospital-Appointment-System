@@ -16,7 +16,11 @@ router.post("/logindoctor", doctorModel.logindoctor);
 router.post("/addappointment", appointModule.addappointment);
 router.get("/getappointment", appointModule.getappointment);
 router.get(
-  "/getappointmentbypatientid/:patientId",
+  "/getappointmentbypatientid",
+  appointModule.getappointmentbypatientid
+);
+router.get(
+  "/getappointmentbypatientid",
   appointModule.getappointmentbypatientid
 );
 
