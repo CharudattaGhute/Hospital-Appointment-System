@@ -60,6 +60,7 @@ async function deleteappointmentBypatient(req, res) {
       .json({ message: "Internal server error", error: err.message });
   }
 }
+// http://localhost:3000/api//deleteappointmentBypatient/66727d90bc680405694170aa
 async function updateAppointmentBydoctor(req, res) {
   try {
     const { id } = req.params;

@@ -24,11 +24,11 @@ router.get(
   appointModule.getappointmentbypatientid
 );
 router.delete(
-  "/deleteappointmentBypatient",
+  "/deleteappointmentBypatient/:id",
   appointModule.deleteappointmentBypatient
 );
 router.put(
-  "/updateAppointmentBydoctor",
+  "/updateAppointmentBydoctor/:id",
   appointModule.updateAppointmentBydoctor
 );
 
