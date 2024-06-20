@@ -23,5 +23,13 @@ router.get(
   "/getappointmentbypatientid",
   appointModule.getappointmentbypatientid
 );
+router.delete(
+  "/deleteappointmentBypatient",
+  appointModule.deleteappointmentBypatient
+);
+router.put(
+  "/updateAppointmentBydoctor",
+  appointModule.updateAppointmentBydoctor
+);
 
 module.exports = router;

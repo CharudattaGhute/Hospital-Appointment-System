@@ -4,13 +4,14 @@ const Model = require("../model/patient");
 async function addpatient(req, res) {
   console.log(req.body);
   try {
-    const newpatient = new Module(req.body);
+    const newpatient = new Model(req.body);
     await newpatient.save();
     res.status(201).send(newpatient);
   } catch (err) {
     res.status(500).send(err);
   }
 }
+// http://localhost:3000/api/addpatient
 
 async function getAllpatient(req, res) {
   try {
@@ -21,6 +22,7 @@ async function getAllpatient(req, res) {
     return res.status(500).send(err);
   }
 }
+// http://localhost:3000/api/getAllpatient
 
 async function loginpatient(req, res) {
   console.log(req.body);
