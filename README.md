@@ -64,7 +64,8 @@ Before you begin, ensure you have met the following requirements:
  ### "doctor_name": "Dr. Smith",
  ### "doctor_phone": 1234567890,
 ###  "doctor_specialist": "Cardiologist",
-###  "doctor_email": "drsmith@example.com",
+###  "doctor_email":
+"drsmith@example.com",
  ### "doctor_password": "securepassword",
  ### "doctor_address": "456 Elm St"
 ### }
